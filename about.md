@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+挨科研的打。
 
-### More Information
+### 即——
 
-A place to include any other types of information that you'd like to include about yourself.
+某不知名大学研究小白的成长之路
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+邮箱：z15713930676@163.com
