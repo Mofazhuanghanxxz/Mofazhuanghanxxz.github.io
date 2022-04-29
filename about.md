@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-挨科研的打。
+# 目录
 
-### 即——
+## CP2K
 
-某不知名大学研究小白的成长之路
+[CP2K 1 准备工作](http://mfzhxxz.top/CP2K1/)
 
-### 联系我
+## share
 
-邮箱：z15713930676@163.com
+[the way of learning](http://mfzhxxz.top/Hello/)
+
+
+
+***
+
+> 挨科研的打。
+>
+>   **即——**
+>
+> 某不知名大学研究小白的成长之路
+>
+>   **联系我**
+>
+> 邮箱：z15713930676@163.com
