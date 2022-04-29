@@ -26,4 +26,4 @@ permalink: /about/
 >
 >   **联系我**
 >
-> 邮箱：z15713930676@163.com
+> 邮箱：zhanghongxiang2@stu.sau.edu.cn
