@@ -10,7 +10,7 @@ permalink: /about/
 
 [CP2K 1 准备工作](http://mfzhxxz.top/CP2K1/)
 
-[CP2K 1 初始Linux系统](https://mfzhxxz.top/CP2K2/)
+[CP2K 2 初识Linux系统](https://mfzhxxz.top/CP2K2/)
 
 ## share
 
